@@ -1,0 +1,6 @@
+C:\ws1802_Project\dubbo-jt-order\src\main\java\com\jt\order\service\DubboOrderServiceImpl.java
+C:\ws1802_Project\dubbo-jt-order\src\main\java\com\jt\order\mapper\OrderMapper.java
+C:\ws1802_Project\dubbo-jt-order\src\main\java\com\jt\order\mapper\OrderShippingMapper.java
+C:\ws1802_Project\dubbo-jt-order\src\main\java\com\jt\order\service\RabbitOrderServiceImpl.java
+C:\ws1802_Project\dubbo-jt-order\src\main\java\com\jt\order\mapper\OrderItemMapper.java
+C:\ws1802_Project\dubbo-jt-order\src\main\java\com\jt\order\job\PaymentOrderJob.java
